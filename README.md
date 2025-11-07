@@ -1,5 +1,7 @@
 # Analyse de Performance : `EnumSet` vs. `BitSet` pour une Main de Cartes Pokémon 🃏
 
+Antoine Colonna d'Istria, Luna Philip
+
 Ce projet Java a été conçu pour comparer la **performance** (temps d'exécution) de deux structures de données optimisées en Java, **`java.util.EnumSet`** et **`java.util.BitSet`**, lors de la simulation de la gestion d'une "main" de cartes dans un jeu.
 
 L'objectif est d'analyser comment ces structures se comportent en fonction de la **taille de l'énumération/collection** sous-jacente (le nombre total de cartes possibles).
