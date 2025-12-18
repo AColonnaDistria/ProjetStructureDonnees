@@ -1,4 +1,4 @@
-# Analyse de Performance : `EnumSet` vs. `BitSet` pour une Main de Cartes Pokémon 🃏
+# Analyse de Performance : `EnumSet` vs. `BitSet` pour une Main de Cartes Pokémon
 
 Antoine Colonna d'Istria, Luna Philip
 
